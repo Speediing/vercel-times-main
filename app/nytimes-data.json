@@ -1,0 +1,1659 @@
+{
+  "status": "OK",
+  "copyright": "Copyright (c) 2023 The New York Times Company. All Rights Reserved.",
+  "section": "home",
+  "last_updated": "2023-08-15T14:33:05-04:00",
+  "num_results": 26,
+  "results": [
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Comparing the Four Criminal Cases Against Donald Trump",
+      "abstract": "An assessment of the four indictments against the former president, including notable features, strengths and weaknesses.",
+      "url": "https://www.nytimes.com/2023/08/15/us/politics/trump-cases-counts-charges-strengths.html",
+      "uri": "nyt://article/9026ad18-55a0-53d6-8093-0f5874a225a8",
+      "byline": "By Charlie Savage",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T14:13:40-04:00",
+      "created_date": "2023-08-15T13:13:05-04:00",
+      "published_date": "2023-08-15T13:13:05-04:00",
+      "material_type_facet": "",
+      "kicker": "News Analysis",
+      "des_facet": [
+        "Federal Criminal Case Against Trump (2020 Election Case)",
+        "Federal Criminal Case Against Trump (Documents Case)",
+        "Presidential Election of 2024",
+        "New York State Criminal Case Against Trump (71543-23)",
+        "United States Politics and Government",
+        "Presidential Election of 2020",
+        "Classified Information and State Secrets",
+        "Campaign Finance",
+        "Storming of the US Capitol (Jan, 2021)",
+        "Special Prosecutors (Independent Counsel)"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Trump Organization"
+      ],
+      "per_facet": [
+        "Biden, Joseph R Jr",
+        "Bragg, Alvin",
+        "Cannon, Aileen M",
+        "Merchan, Juan M",
+        "Smith, Jack (Attorney)",
+        "Trump, Donald J",
+        "Willis, Fani T"
+      ],
+      "geo_facet": [
+        "Fort Pierce (Fla)",
+        "Georgia",
+        "Washington (DC)",
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15dc-trump-cases-jgkz/15dc-trump-cases-jgkz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1393,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Trump and 18 others were indicted by an Atlanta grand jury in a sweeping racketeering case. It is one of four cases brought against him this year.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15dc-trump-cases-jgkz/15dc-trump-cases-jgkz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Trump and 18 others were indicted by an Atlanta grand jury in a sweeping racketeering case. It is one of four cases brought against him this year.",
+          "copyright": "Doug Mills/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15dc-trump-cases-jgkz/15dc-trump-cases-jgkz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Mr. Trump and 18 others were indicted by an Atlanta grand jury in a sweeping racketeering case. It is one of four cases brought against him this year.",
+          "copyright": "Doug Mills/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3OZl9dz"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "How Fire Turned Lahaina Into a Death Trap",
+      "abstract": "When a historic coastal town in Hawaii was overrun by fire, many residents fled for their lives — but there was nowhere to go.",
+      "url": "https://www.nytimes.com/2023/08/15/us/hawaii-maui-lahaina-fire.html",
+      "uri": "nyt://article/aae3c6ee-f585-596d-8ab1-037e8a51ce55",
+      "byline": "By Nicholas Bogel-Burroughs, Serge F. Kovaleski, Shawn Hubler and Riley Mellen",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T11:16:19-04:00",
+      "created_date": "2023-08-15T05:20:02-04:00",
+      "published_date": "2023-08-15T05:20:02-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wildfires",
+        "vis-video"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Lahaina (Hawaii)",
+        "Maui (Hawaii)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15NAT-HAWAII-TICTOC-bqth/15NAT-HAWAII-TICTOC-bqth-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 574,
+          "width": 574,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zeke Kalua/County of Maui, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15NAT-HAWAII-TICTOC-bqth/15NAT-HAWAII-TICTOC-bqth-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zeke Kalua/County of Maui, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15NAT-HAWAII-TICTOC-bqth/15NAT-HAWAII-TICTOC-bqth-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Zeke Kalua/County of Maui, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/44fvoyt"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Biden Says He’ll Visit Hawaii After Deadly Wildfires",
+      "abstract": "The president had not addressed the fires since last week, a relative silence that drew criticism from Republicans.",
+      "url": "https://www.nytimes.com/2023/08/15/us/politics/biden-hawaii-maui-wildfires.html",
+      "uri": "nyt://article/3eabc494-b621-59cc-9a50-e53bd13d2a9b",
+      "byline": "By Reid J. Epstein",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T14:12:32-04:00",
+      "created_date": "2023-08-15T14:12:32-04:00",
+      "published_date": "2023-08-15T14:12:32-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Wildfires",
+        "Deaths (Fatalities)",
+        "United States Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Biden, Joseph R Jr"
+      ],
+      "geo_facet": [
+        "Hawaii",
+        "Maui (Hawaii)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15pol-biden-wisconsin-jvfb/15pol-biden-wisconsin-jvfb-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden arriving on Tuesday in Wisconsin, where he was giving a speech about the economy.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15pol-biden-wisconsin-jvfb/15pol-biden-wisconsin-jvfb-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden arriving on Tuesday in Wisconsin, where he was giving a speech about the economy.",
+          "copyright": "Pete Marovich for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15pol-biden-wisconsin-jvfb/15pol-biden-wisconsin-jvfb-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "President Biden arriving on Tuesday in Wisconsin, where he was giving a speech about the economy.",
+          "copyright": "Pete Marovich for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/449XYkP"
+    },
+    {
+      "section": "world",
+      "subsection": "europe",
+      "title": "U.K. Reveals 5 Espionage Arrests After BBC Reports Russia Link",
+      "abstract": "Britain’s counterterrorism unit arrested the five on suspicion of spying on British intelligence, the authorities said following a BBC report that three of the same people had been accused of spying for Russia.",
+      "url": "https://www.nytimes.com/2023/08/15/world/europe/uk-spies-arrested-russia.html",
+      "uri": "nyt://article/35e49fe0-6531-57b5-b2b9-c65fa17209ec",
+      "byline": "By Isabella Kwai",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T13:14:15-04:00",
+      "created_date": "2023-08-15T13:14:15-04:00",
+      "published_date": "2023-08-15T13:14:15-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Espionage and Intelligence Services"
+      ],
+      "org_facet": [
+        "Scotland Yard (Metropolitan Police Service)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Russia",
+        "Great Britain",
+        "Bulgaria"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15ukraine-briefing-uk-russia-spies-jhlp/15ukraine-briefing-uk-russia-spies-jhlp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Metropolitan Police headquarters in London, formally called New Scotland Yard. ",
+          "copyright": "Andy Rain/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15ukraine-briefing-uk-russia-spies-jhlp/15ukraine-briefing-uk-russia-spies-jhlp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Metropolitan Police headquarters in London, formally called New Scotland Yard. ",
+          "copyright": "Andy Rain/EPA, via Shutterstock"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15ukraine-briefing-uk-russia-spies-jhlp/15ukraine-briefing-uk-russia-spies-jhlp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "The Metropolitan Police headquarters in London, formally called New Scotland Yard. ",
+          "copyright": "Andy Rain/EPA, via Shutterstock"
+        }
+      ],
+      "short_url": "https://nyti.ms/3OXFv6X"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "Former F.B.I. Spy Hunter Pleads Guilty to Aiding Russian Oligarch",
+      "abstract": "Charles McGonigal, once the bureau’s chief of counterintelligence in New York, still faces separate federal charges out of Washington.",
+      "url": "https://www.nytimes.com/2023/08/15/nyregion/charles-mcgonigal-fbi-plea.html",
+      "uri": "nyt://article/2fc9d7de-e591-519b-9486-fa9e5cbd3c59",
+      "byline": "By Michael Rothfeld",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T14:04:54-04:00",
+      "created_date": "2023-08-15T14:04:54-04:00",
+      "published_date": "2023-08-15T14:04:54-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Ethics and Official Misconduct",
+        "Espionage and Intelligence Services",
+        "Plea Bargaining"
+      ],
+      "org_facet": [
+        "Federal Bureau of Investigation"
+      ],
+      "per_facet": [
+        "McGonigal, Charles",
+        "Deripaska, Oleg V"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15MCGONIGAL-vtfk/15MCGONIGAL-vtfk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charles McGonigal, the F.B.I.’s top counterintelligence official in New York, sought to enrich himself by trading on his job, prosecutors said.",
+          "copyright": "Jefferson Siegel for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15MCGONIGAL-vtfk/15MCGONIGAL-vtfk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charles McGonigal, the F.B.I.’s top counterintelligence official in New York, sought to enrich himself by trading on his job, prosecutors said.",
+          "copyright": "Jefferson Siegel for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15MCGONIGAL-vtfk/15MCGONIGAL-vtfk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Charles McGonigal, the F.B.I.’s top counterintelligence official in New York, sought to enrich himself by trading on his job, prosecutors said.",
+          "copyright": "Jefferson Siegel for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3YAxCHz"
+    },
+    {
+      "section": "headway",
+      "subsection": "",
+      "title": "Sentenced to Life as Boys, They Made Their Case for Release",
+      "abstract": "At age 17, Donnell Drinks was one of many young men in Philadelphia who went to prison for life without parole. Today, the city has resentenced more of those prisoners than any other jurisdiction.",
+      "url": "https://www.nytimes.com/2023/08/15/headway/prison-life-sentence-release.html",
+      "uri": "nyt://article/991ed43c-e7e4-5d9c-9f2e-9950de89e27c",
+      "byline": "By Issie Lapowsky and Abdul Kircher",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T14:10:08-04:00",
+      "created_date": "2023-08-15T02:00:28-04:00",
+      "published_date": "2023-08-15T02:00:28-04:00",
+      "material_type_facet": "",
+      "kicker": "Headway",
+      "des_facet": [
+        "internal-open-access",
+        "internal-sub-only",
+        "Amnesties, Commutations and Pardons",
+        "Mandatory Sentencing",
+        "Juvenile Delinquency",
+        "Black People",
+        "Prisons and Prisoners",
+        "Ex-Convicts",
+        "Discrimination"
+      ],
+      "org_facet": [
+        "Equal Justice Initiative",
+        "Supreme Court (US)"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Philadelphia (Pa)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/10/multimedia/10HW-CHILDLIFERS-01-hzcq/10HW-CHILDLIFERS-01-hzcq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 1639,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Abdul Kircher for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/10/multimedia/10HW-CHILDLIFERS-01-hzcq/10HW-CHILDLIFERS-01-hzcq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Abdul Kircher for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/10/multimedia/10HW-CHILDLIFERS-01-hzcq/10HW-CHILDLIFERS-01-hzcq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Abdul Kircher for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/44fnrJD"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "They Review Movies on TikTok, but Don’t Call Them Critics",
+      "abstract": "On MovieTok, reviewers can reach an audience of millions and earn tens of thousands of dollars per post. “Critics,” they say, are old news.",
+      "url": "https://www.nytimes.com/2023/08/15/movies/tiktok-movie-reviews-critics.html",
+      "uri": "nyt://article/66606e6e-3c90-5940-b9a9-18849e4861ff",
+      "byline": "By Reggie Ugwu",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T12:58:18-04:00",
+      "created_date": "2023-08-15T11:30:14-04:00",
+      "published_date": "2023-08-15T11:30:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Social Media"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/09/multimedia/09tiktok-critics-maddi-gflh/09tiktok-critics-maddi-gflh-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maddi Koch, who has three million followers on TikTok, says she makes videos to spare people “the pain of arguing over finding a movie or not knowing what you’re really looking for.”",
+          "copyright": "Madeline Gray for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/09/multimedia/09tiktok-critics-maddi-gflh/09tiktok-critics-maddi-gflh-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maddi Koch, who has three million followers on TikTok, says she makes videos to spare people “the pain of arguing over finding a movie or not knowing what you’re really looking for.”",
+          "copyright": "Madeline Gray for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/09/multimedia/09tiktok-critics-maddi-gflh/09tiktok-critics-maddi-gflh-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Maddi Koch, who has three million followers on TikTok, says she makes videos to spare people “the pain of arguing over finding a movie or not knowing what you’re really looking for.”",
+          "copyright": "Madeline Gray for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/45aBzoS"
+    },
+    {
+      "section": "movies",
+      "subsection": "",
+      "title": "8 TikTokers Redefining the Movie Review",
+      "abstract": "The personalities of MovieTok are not critics in the traditional sense. But their upbeat videos earn them the devotion of movie lovers.",
+      "url": "https://www.nytimes.com/2023/08/15/movies/tiktok-movie-reviewers.html",
+      "uri": "nyt://article/6ad48cee-43af-5d58-99c2-ffb3a6173a79",
+      "byline": "By Reggie Ugwu",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T12:08:30-04:00",
+      "created_date": "2023-08-15T11:30:14-04:00",
+      "published_date": "2023-08-15T11:30:14-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Movies",
+        "Social Media"
+      ],
+      "org_facet": [
+        "TikTok (ByteDance)"
+      ],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/09/arts/09tiktok-critics-roundup-topper/09tiktok-critics-roundup-topper-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1135,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Juju Green; Seth Mullan-Feroze; Megan Cruz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/09/arts/09tiktok-critics-roundup-topper/09tiktok-critics-roundup-topper-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Juju Green; Seth Mullan-Feroze; Megan Cruz"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/09/arts/09tiktok-critics-roundup-topper/09tiktok-critics-roundup-topper-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Juju Green; Seth Mullan-Feroze; Megan Cruz"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KFcj1U"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "Why This Company’s Financial Crisis Threatens China’s Economy",
+      "abstract": "Country Garden was China’s biggest real estate developer. Now it is staring down default, facing billions of dollars in losses and $200 billion in unpaid bills.",
+      "url": "https://www.nytimes.com/2023/08/15/business/country-garden-china-property.html",
+      "uri": "nyt://article/ef292ab7-d691-5ff5-915d-4f524a406e23",
+      "byline": "By Alexandra Stevenson",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T12:20:28-04:00",
+      "created_date": "2023-08-15T09:48:51-04:00",
+      "published_date": "2023-08-15T09:48:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Real Estate and Housing (Residential)",
+        "Economic Conditions and Trends",
+        "Foreign Investments",
+        "Regulation and Deregulation of Industry"
+      ],
+      "org_facet": [
+        "Country Garden"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15China-Country-Garden-01-jzmf/15China-Country-Garden-01-jzmf-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1386,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Country Garden’s offices in Foshan, China. Experts fear the company’s troubles could spill over into the financial markets.",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15China-Country-Garden-01-jzmf/15China-Country-Garden-01-jzmf-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Country Garden’s offices in Foshan, China. Experts fear the company’s troubles could spill over into the financial markets.",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15China-Country-Garden-01-jzmf/15China-Country-Garden-01-jzmf-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Country Garden’s offices in Foshan, China. Experts fear the company’s troubles could spill over into the financial markets.",
+          "copyright": "Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3qpwdqW"
+    },
+    {
+      "section": "business",
+      "subsection": "",
+      "title": "What China Isn’t Telling the World About Its Economy",
+      "abstract": "Beijing stopped releasing youth unemployment figures in its latest attempt to play down negative trends as growth stalls, and global concerns grow.",
+      "url": "https://www.nytimes.com/2023/08/15/business/china-economy-downturn-unemployment.html",
+      "uri": "nyt://article/7e719322-868c-5d05-9b21-823518eee397",
+      "byline": "By Andrew Ross Sorkin, Ravi Mattu, Bernhard Warner, Sarah Kessler, Lauren Hirsch and Ephrat Livni",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T09:31:40-04:00",
+      "created_date": "2023-08-15T08:15:15-04:00",
+      "published_date": "2023-08-15T08:15:15-04:00",
+      "material_type_facet": "",
+      "kicker": "DealBook Newsletter",
+      "des_facet": [],
+      "org_facet": [
+        "BlackRock Inc",
+        "MSCI Inc"
+      ],
+      "per_facet": [
+        "Xi Jinping",
+        "Gallagher, Mike (1984- )"
+      ],
+      "geo_facet": [
+        "China"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15db-China-youthunemployment-mhtp/15db-China-youthunemployment-mhtp-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A job fair in Wuhan, China. Youth unemployment has doubled in the last four years.",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15db-China-youthunemployment-mhtp/15db-China-youthunemployment-mhtp-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A job fair in Wuhan, China. Youth unemployment has doubled in the last four years.",
+          "copyright": "Agence France-Presse — Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15db-China-youthunemployment-mhtp/15db-China-youthunemployment-mhtp-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "A job fair in Wuhan, China. Youth unemployment has doubled in the last four years.",
+          "copyright": "Agence France-Presse — Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KBiBzK"
+    },
+    {
+      "section": "us",
+      "subsection": "politics",
+      "title": "Hunter Biden’s Lawyer Steps Down From Case",
+      "abstract": "The decision by the lawyer, Christopher J. Clark, is the latest development in the long-running negotiation between the Justice Department and Hunter Biden.",
+      "url": "https://www.nytimes.com/2023/08/15/us/politics/hunter-biden-lawyer.html",
+      "uri": "nyt://article/477c2f1f-4e30-56ad-b90f-18a0475d8736",
+      "byline": "By Michael S. Schmidt and Glenn Thrush",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T12:28:12-04:00",
+      "created_date": "2023-08-15T11:20:57-04:00",
+      "published_date": "2023-08-15T11:20:57-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Legal Profession",
+        "Suits and Litigation (Civil)"
+      ],
+      "org_facet": [
+        "Justice Department"
+      ],
+      "per_facet": [
+        "Clark, Christopher J",
+        "Biden, Hunter"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15dc-hunter-pzhc/15dc-hunter-pzhc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hunter Biden’s lawyer, Christopher J. Clark, stepped down early Tuesday and now intends to testify as a witness.",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15dc-hunter-pzhc/15dc-hunter-pzhc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hunter Biden’s lawyer, Christopher J. Clark, stepped down early Tuesday and now intends to testify as a witness.",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15dc-hunter-pzhc/15dc-hunter-pzhc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Hunter Biden’s lawyer, Christopher J. Clark, stepped down early Tuesday and now intends to testify as a witness.",
+          "copyright": "Kenny Holston/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/45v1Uhs"
+    },
+    {
+      "section": "world",
+      "subsection": "americas",
+      "title": "She Was Brazil’s Barbie. Now She’s Saying Sorry.",
+      "abstract": "Xuxa was once Brazil’s biggest TV star. Now many are wondering whether a thin, blond, white woman was the right idol for such a diverse country.",
+      "url": "https://www.nytimes.com/2023/08/15/world/americas/brazil-barbie-xuxa.html",
+      "uri": "nyt://article/343c2c85-9cbe-599a-8778-e0785aaf1544",
+      "byline": "By Ana Ionova",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T11:19:56-04:00",
+      "created_date": "2023-08-15T00:01:27-04:00",
+      "published_date": "2023-08-15T00:01:27-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Beauty (Concept)",
+        "Barbie (Doll)",
+        "Women and Girls",
+        "Television"
+      ],
+      "org_facet": [
+        "Globo"
+      ],
+      "per_facet": [
+        "Xuxa"
+      ],
+      "geo_facet": [
+        "Brazil",
+        "Latin America"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15brazil-barbie-02-gczk/15brazil-barbie-02-gczk-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1339,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xuxa on a television show on the network Globo in the 1980s. She says she now laments the beauty standards she portrayed.",
+          "copyright": "4Imagens/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15brazil-barbie-02-gczk/15brazil-barbie-02-gczk-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xuxa on a television show on the network Globo in the 1980s. She says she now laments the beauty standards she portrayed.",
+          "copyright": "4Imagens/Getty Images"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15brazil-barbie-02-gczk/15brazil-barbie-02-gczk-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Xuxa on a television show on the network Globo in the 1980s. She says she now laments the beauty standards she portrayed.",
+          "copyright": "4Imagens/Getty Images"
+        }
+      ],
+      "short_url": "https://nyti.ms/3QB7IBx"
+    },
+    {
+      "section": "well",
+      "subsection": "mind",
+      "title": "As the School Year Begins, Families Struggle to Find A.D.H.D. Medication",
+      "abstract": "Parents and doctors say that drug shortages are leading to declines in learning and self-esteem.",
+      "url": "https://www.nytimes.com/2023/08/15/well/mind/adhd-adderall-shortage-children.html",
+      "uri": "nyt://article/3f2bd0c0-f2f9-54d5-bb4d-d8bdc7d214fd",
+      "byline": "By Christina Caron",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T12:52:59-04:00",
+      "created_date": "2023-08-15T11:12:28-04:00",
+      "published_date": "2023-08-15T11:12:28-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Drugs (Pharmaceuticals)",
+        "Shortages",
+        "Attention Deficit Hyperactivity Disorder",
+        "Adderall (Drug)",
+        "Children and Childhood",
+        "Education (K-12)",
+        "Ritalin (Drug)"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15WELL-ADHD-KIDS1-cftq/15WELL-ADHD-KIDS1-cftq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1388,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Taylor Glascock for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15WELL-ADHD-KIDS1-cftq/15WELL-ADHD-KIDS1-cftq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Taylor Glascock for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15WELL-ADHD-KIDS1-cftq/15WELL-ADHD-KIDS1-cftq-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Taylor Glascock for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3OzPhuy"
+    },
+    {
+      "section": "sports",
+      "subsection": "soccer",
+      "title": "Spain Gets Last Word, and Reaches First World Cup Final",
+      "abstract": "A late swing of goals and emotions ended with a dramatic winner by Olga Carmona, and Spain one win from its first world championship.",
+      "url": "https://www.nytimes.com/2023/08/15/sports/soccer/womens-world-cup-spain-sweden.html",
+      "uri": "nyt://article/c4abb42a-a25f-5bd8-9ad2-68ee96ce2683",
+      "byline": "By Rory Smith",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T09:55:56-04:00",
+      "created_date": "2023-08-15T06:11:27-04:00",
+      "published_date": "2023-08-15T06:11:27-04:00",
+      "material_type_facet": "",
+      "kicker": "Spain 2, Sweden 1",
+      "des_facet": [
+        "Women's World Cup (Soccer)",
+        "Soccer"
+      ],
+      "org_facet": [],
+      "per_facet": [
+        "Gerhardsson, Peter (1959- )",
+        "Vilda, Jorge (1981- )"
+      ],
+      "geo_facet": [
+        "Spain",
+        "Sweden"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15wwc-spain2-hzjt/15wwc-spain2-hzjt-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1363,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Spain’s Olga Carmona scored what proved to be the winner as the clock struck 90 minutes.",
+          "copyright": "Hannah Mckay/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15wwc-spain2-hzjt/15wwc-spain2-hzjt-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Spain’s Olga Carmona scored what proved to be the winner as the clock struck 90 minutes.",
+          "copyright": "Hannah Mckay/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15wwc-spain2-hzjt/15wwc-spain2-hzjt-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Spain’s Olga Carmona scored what proved to be the winner as the clock struck 90 minutes.",
+          "copyright": "Hannah Mckay/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/3YPTzCV"
+    },
+    {
+      "section": "sports",
+      "subsection": "soccer",
+      "title": "Australia’s Matildas Unite a Nation and Crack the Code Wars",
+      "abstract": "The World Cup has added a new dimension to a national sporting conversation often dominated by the rivalry between rugby and Australian rules football.",
+      "url": "https://www.nytimes.com/2023/08/15/sports/soccer/womens-world-cup-australia.html",
+      "uri": "nyt://article/8d798117-ee06-5aa6-a07e-f62f4bcc47d1",
+      "byline": "By Rory Smith",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T11:44:38-04:00",
+      "created_date": "2023-08-15T11:44:38-04:00",
+      "published_date": "2023-08-15T11:44:38-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Soccer",
+        "Women's World Cup (Soccer)",
+        "Australian Football"
+      ],
+      "org_facet": [
+        "Australian Football League"
+      ],
+      "per_facet": [
+        "Kerr, Samantha (1993- )"
+      ],
+      "geo_facet": [],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15wwc-australia-sports-01-vwjz/15wwc-australia-sports-01-vwjz-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Australia fans outside the stadium before the team’s match against France in the quarterfinals of the Women’s World Cup.",
+          "copyright": "Asanka Brendon Ratnayake/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15wwc-australia-sports-01-vwjz/15wwc-australia-sports-01-vwjz-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Australia fans outside the stadium before the team’s match against France in the quarterfinals of the Women’s World Cup.",
+          "copyright": "Asanka Brendon Ratnayake/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15wwc-australia-sports-01-vwjz/15wwc-australia-sports-01-vwjz-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Australia fans outside the stadium before the team’s match against France in the quarterfinals of the Women’s World Cup.",
+          "copyright": "Asanka Brendon Ratnayake/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/47vk6Jv"
+    },
+    {
+      "section": "business",
+      "subsection": "media",
+      "title": "Report on Anti-Gay Slur Could Put Local News Site Out of Business",
+      "abstract": "When a north-central Wisconsin news site reported that a businessman had uttered a homophobic slur, he sued, claiming defamation. The legal bills are piling up.",
+      "url": "https://www.nytimes.com/2023/08/15/business/media/antigay-slur-wausau-pilot-review.html",
+      "uri": "nyt://article/28851528-145e-5e02-b5b0-9e61f868a170",
+      "byline": "By Jeremy W. Peters",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T12:07:14-04:00",
+      "created_date": "2023-08-15T09:00:17-04:00",
+      "published_date": "2023-08-15T09:00:17-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Libel and Slander",
+        "Newspapers",
+        "Suits and Litigation (Civil)",
+        "News and News Media",
+        "Freedom of Speech and Expression",
+        "Freedom of the Press",
+        "Discrimination",
+        "Homosexuality and Bisexuality"
+      ],
+      "org_facet": [
+        "Wausau Pilot & Review, The"
+      ],
+      "per_facet": [
+        "Tomczyk, Cory"
+      ],
+      "geo_facet": [
+        "Wisconsin"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/00wausau-defamation-01-zkgw/00wausau-defamation-01-zkgw-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1366,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shereen Siewert, editor of The Wausau Pilot and Review, said she had no idea how she could continue paying both her lawyers and her staff of four.",
+          "copyright": "Narayan Mahon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/00wausau-defamation-01-zkgw/00wausau-defamation-01-zkgw-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shereen Siewert, editor of The Wausau Pilot and Review, said she had no idea how she could continue paying both her lawyers and her staff of four.",
+          "copyright": "Narayan Mahon for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/02/14/multimedia/00wausau-defamation-01-zkgw/00wausau-defamation-01-zkgw-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Shereen Siewert, editor of The Wausau Pilot and Review, said she had no idea how she could continue paying both her lawyers and her staff of four.",
+          "copyright": "Narayan Mahon for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3OCp6mN"
+    },
+    {
+      "section": "climate",
+      "subsection": "",
+      "title": "The Clean Energy Future Is a Battle for Hearts and Minds",
+      "abstract": "A broad, and sometimes quixotic, retail effort to win the fight against global warming is playing out one person at a time, with nary a mention of climate change.",
+      "url": "https://www.nytimes.com/interactive/2023/08/12/climate/electric-car-politics-chevy-general-motors.html",
+      "uri": "nyt://interactive/a2813807-7f11-5e60-9406-bca5b7f0d2fb",
+      "byline": "By Jack Ewing, Clifford Krauss, Lisa Friedman, Leo Dominguez and Nadja Popovich",
+      "item_type": "Interactive",
+      "updated_date": "2023-08-15T12:28:50-04:00",
+      "created_date": "2023-08-12T20:08:03-04:00",
+      "published_date": "2023-08-12T20:08:03-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Electric and Hybrid Vehicles",
+        "Global Warming",
+        "Alternative and Renewable Energy",
+        "United States Politics and Government",
+        "Inflation Reduction Act of 2022",
+        "Solar Energy",
+        "Greenhouse Gas Emissions",
+        "Wind Power",
+        "Polls and Public Opinion",
+        "Consumer Behavior"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "United States"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/12/climate/electric-car-politics-chevy-general-motors-1691861611493/electric-car-politics-chevy-general-motors-1691861611493-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/12/climate/electric-car-politics-chevy-general-motors-1691861611493/electric-car-politics-chevy-general-motors-1691861611493-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/12/climate/electric-car-politics-chevy-general-motors-1691861611493/electric-car-politics-chevy-general-motors-1691861611493-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": ""
+        }
+      ],
+      "short_url": "https://nyti.ms/3DSjlMT"
+    },
+    {
+      "section": "opinion",
+      "subsection": "editorials",
+      "title": "What if, Knowing What They Know Now, Republicans Don’t Vote for Donald Trump?",
+      "abstract": "Before he faces a jury, the former president must answer to his supporters.",
+      "url": "https://www.nytimes.com/2023/08/15/opinion/editorials/trump-indictment-republicans.html",
+      "uri": "nyt://article/cdd8ef39-f148-5db5-9b53-f08b2fc58ccf",
+      "byline": "By The Editorial Board",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T11:43:14-04:00",
+      "created_date": "2023-08-15T08:04:39-04:00",
+      "published_date": "2023-08-15T08:04:39-04:00",
+      "material_type_facet": "",
+      "kicker": "The Editorial Board",
+      "des_facet": [
+        "Federal Criminal Case Against Trump (2020 Election Case)",
+        "Federal Criminal Case Against Trump (Documents Case)",
+        "Georgia Criminal Case Against Trump (2020 Election)",
+        "Presidential Election of 2024",
+        "Primaries and Caucuses",
+        "New York State Civil Case Against Trump (452564/2022)",
+        "Voter Fraud (Election Fraud)",
+        "Presidential Election of 2020",
+        "Racketeering and Racketeers",
+        "States (US)"
+      ],
+      "org_facet": [
+        "Justice Department",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Willis, Fani T",
+        "Trump, Donald J"
+      ],
+      "geo_facet": [
+        "Fulton County (Ga)",
+        "Georgia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/14/multimedia/00indictment-editorial-ukz2-vcjp-pzkl/00indictment-editorial-ukz2-vcjp-pzkl-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 2048,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/14/multimedia/00indictment-editorial-ukz2-vcjp-pzkl/00indictment-editorial-ukz2-vcjp-pzkl-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/14/multimedia/00indictment-editorial-ukz2-vcjp-pzkl/00indictment-editorial-ukz2-vcjp-pzkl-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3DUmHz9"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "This Indictment of Trump Does Something Ingenious",
+      "abstract": "Fani Willis’s indictment powerfully complements the federal Jan. 6 case against Donald Trump.",
+      "url": "https://www.nytimes.com/2023/08/15/opinion/trump-indictment-georgia-fani-willis.html",
+      "uri": "nyt://article/dfd6ba6e-224d-5e2b-a698-fb9e517d867f",
+      "byline": "By Norman Eisen and Amy Lee Copeland",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T08:53:18-04:00",
+      "created_date": "2023-08-15T05:00:56-04:00",
+      "published_date": "2023-08-15T05:00:56-04:00",
+      "material_type_facet": "",
+      "kicker": "Guest Essay",
+      "des_facet": [
+        "Georgia Criminal Case Against Trump (2020 Election)",
+        "Presidential Election of 2020",
+        "Democracy (Theory and Philosophy)",
+        "Racketeering and Racketeers"
+      ],
+      "org_facet": [
+        "House Select Committee to Investigate the January 6th Attack",
+        "Justice Department",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Clark, Jeffrey B (1967- )",
+        "Eastman, John C",
+        "Freeman, Ruby",
+        "Giuliani, Rudolph W",
+        "Meadows, Mark R (1959- )",
+        "Moss, Shaye",
+        "Powell, Sidney (Attorney)",
+        "Raffensperger, Brad",
+        "Trump, Donald J",
+        "Williams, Jeffery Lamar (Young Thug)",
+        "Willis, Fani T"
+      ],
+      "geo_facet": [
+        "Atlanta (Ga)",
+        "Coffee County (Ga)",
+        "Fulton County (Ga)",
+        "Georgia"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15eisen-copeland3-plgm/15eisen-copeland3-plgm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An attendee after a December 2020 Republican National Committee event in Valdosta, Ga., featuring Donald Trump.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15eisen-copeland3-plgm/15eisen-copeland3-plgm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An attendee after a December 2020 Republican National Committee event in Valdosta, Ga., featuring Donald Trump.",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15eisen-copeland3-plgm/15eisen-copeland3-plgm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "An attendee after a December 2020 Republican National Committee event in Valdosta, Ga., featuring Donald Trump.",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/47AEWXN"
+    },
+    {
+      "section": "opinion",
+      "subsection": "",
+      "title": "The Limit Does Not Exist for Republicans",
+      "abstract": "The attack on bodily autonomy is an assault on both political equality and reproductive freedom.",
+      "url": "https://www.nytimes.com/2023/08/15/opinion/abortion-republicans-ohio-idaho.html",
+      "uri": "nyt://article/b784e9bf-7952-5934-8a88-09b76e243b27",
+      "byline": "By Jamelle Bouie",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T12:56:46-04:00",
+      "created_date": "2023-08-15T05:00:29-04:00",
+      "published_date": "2023-08-15T05:00:29-04:00",
+      "material_type_facet": "",
+      "kicker": "Jamelle Bouie",
+      "des_facet": [
+        "Abortion",
+        "State Legislatures",
+        "Elections",
+        "Politics and Government"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Ohio"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/opinion/15bouie/15bouie-superJumbo-v2.jpg",
+          "format": "Super Jumbo",
+          "height": 1346,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Republican officials in Ohio did not get the low turnout they seemed to be hoping for in a special election held this summer.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/opinion/15bouie/15bouie-threeByTwoSmallAt2X-v2.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Republican officials in Ohio did not get the low turnout they seemed to be hoping for in a special election held this summer.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/opinion/15bouie/15bouie-thumbLarge-v2.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Republican officials in Ohio did not get the low turnout they seemed to be hoping for in a special election held this summer.",
+          "copyright": "Maddie McGarvey for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3segDyU"
+    },
+    {
+      "section": "opinion",
+      "subsection": "columnists",
+      "title": "At a College Targeted by DeSantis, Gender Studies Is Out, Jocks Are In",
+      "abstract": "A Florida school targeted by DeSantis is becoming unrecognizable.",
+      "url": "https://www.nytimes.com/2023/08/14/opinion/columnists/gender-studies-ron-desantis-florida.html",
+      "uri": "nyt://article/7ed91d88-9b36-58bf-b315-6ef95fc59eee",
+      "byline": "By Michelle Goldberg",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T00:11:54-04:00",
+      "created_date": "2023-08-14T20:16:49-04:00",
+      "published_date": "2023-08-14T20:16:49-04:00",
+      "material_type_facet": "",
+      "kicker": "Michelle Goldberg",
+      "des_facet": [
+        "Colleges and Universities",
+        "Politics and Government",
+        "College Athletics",
+        "Conservatism (US Politics)"
+      ],
+      "org_facet": [
+        "New College of Florida"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Sarasota (Fla)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/14goldberg-ukz-gqjc/14goldberg-ukz-gqjc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rufo, a New College board member, in May at the college, where he signed a measure banning initiatives to improve diversity, equity and inclusion. ",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/14goldberg-ukz-gqjc/14goldberg-ukz-gqjc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rufo, a New College board member, in May at the college, where he signed a measure banning initiatives to improve diversity, equity and inclusion. ",
+          "copyright": "Damon Winter/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/14goldberg-ukz-gqjc/14goldberg-ukz-gqjc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Chris Rufo, a New College board member, in May at the college, where he signed a measure banning initiatives to improve diversity, equity and inclusion. ",
+          "copyright": "Damon Winter/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3KAS3P6"
+    },
+    {
+      "section": "us",
+      "subsection": "",
+      "title": "Mother of 6-Year-Old Who Shot Teacher Pleads Guilty to Child Neglect",
+      "abstract": "The child’s mother, Deja Taylor, separately pleaded guilty to federal criminal charges in June.",
+      "url": "https://www.nytimes.com/2023/08/15/us/virginia-teacher-shooting-mother-guilty-plea.html",
+      "uri": "nyt://article/058ef48b-4b73-547a-8e5b-48faadac1852",
+      "byline": "By Livia Albeck-Ripka",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T14:11:44-04:00",
+      "created_date": "2023-08-15T14:11:44-04:00",
+      "published_date": "2023-08-15T14:11:44-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Decisions and Verdicts",
+        "Teachers and School Employees",
+        "Murders, Attempted Murders and Homicides",
+        "School Shootings and Armed Attacks"
+      ],
+      "org_facet": [
+        "Richneck Elementary School (Newport News, Va)"
+      ],
+      "per_facet": [
+        "Taylor, Deja (January 6, 2023 Shooting)",
+        "Zwerner, Abigail"
+      ],
+      "geo_facet": [
+        "Newport News (Va)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15xp-newport-2-zptc/15xp-newport-2-zptc-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richneck Elementary in Newport News, Va., in January.",
+          "copyright": "Billy Schuerman/The Virginian-Pilot, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15xp-newport-2-zptc/15xp-newport-2-zptc-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richneck Elementary in Newport News, Va., in January.",
+          "copyright": "Billy Schuerman/The Virginian-Pilot, via Associated Press"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15xp-newport-2-zptc/15xp-newport-2-zptc-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Richneck Elementary in Newport News, Va., in January.",
+          "copyright": "Billy Schuerman/The Virginian-Pilot, via Associated Press"
+        }
+      ],
+      "short_url": "https://nyti.ms/3QHo9fW"
+    },
+    {
+      "section": "nyregion",
+      "subsection": "",
+      "title": "George Santos Missed the Deadline to Reveal His Finances. Now What?",
+      "abstract": "The New York congressman, who faces a 13-count federal indictment, is late with the much-awaited filing, adding to the mystery around his finances.",
+      "url": "https://www.nytimes.com/2023/08/15/nyregion/george-santos-financial-disclosure.html",
+      "uri": "nyt://article/8ed316c0-5633-56a4-acde-26a589dc995b",
+      "byline": "By Grace Ashford and Michael Gold",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T14:05:15-04:00",
+      "created_date": "2023-08-15T14:04:43-04:00",
+      "published_date": "2023-08-15T14:04:43-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "United States Politics and Government",
+        "Finances",
+        "Ethics and Official Misconduct",
+        "Campaign Finance"
+      ],
+      "org_facet": [
+        "House of Representatives",
+        "Devolder Organization",
+        "Republican Party"
+      ],
+      "per_facet": [
+        "Santos, George (1988- )"
+      ],
+      "geo_facet": [
+        "New York State"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15santos-finances-01-lbqv/15santos-finances-01-lbqv-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1364,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative George Santos, Republican of New York, faces 13 felony charges related to his finances.",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15santos-finances-01-lbqv/15santos-finances-01-lbqv-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative George Santos, Republican of New York, faces 13 felony charges related to his finances.",
+          "copyright": "Kenny Holston/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15santos-finances-01-lbqv/15santos-finances-01-lbqv-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Representative George Santos, Republican of New York, faces 13 felony charges related to his finances.",
+          "copyright": "Kenny Holston/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/47wdeLW"
+    },
+    {
+      "section": "science",
+      "subsection": "",
+      "title": "Reviving the Redwoods",
+      "abstract": "A mission to undo decades of damage to the redwoods of California caused by unchecked logging involves even more logging — and chain saws.",
+      "url": "https://www.nytimes.com/2023/08/15/science/redwood-trees-logging-california.html",
+      "uri": "nyt://article/55cf23b4-a640-5fa3-a797-400440c050d7",
+      "byline": "By Jim Robbins and Ian C. Bates",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T14:21:55-04:00",
+      "created_date": "2023-08-15T03:00:42-04:00",
+      "published_date": "2023-08-15T03:00:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Trees and Shrubs",
+        "Forests and Forestry",
+        "Conservation of Resources",
+        "National Parks, Monuments and Seashores",
+        "Global Warming",
+        "Wildfires",
+        "Logging Industry"
+      ],
+      "org_facet": [
+        "National Park Service",
+        "Save the Redwoods League"
+      ],
+      "per_facet": [],
+      "geo_facet": [
+        "Redwood National and State Parks (Calif)",
+        "California"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15SCI-REDWOODS-1b-jfvq/15SCI-REDWOODS-1b-jfvq-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1638,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ian C. Bates for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15SCI-REDWOODS-1b-jfvq/15SCI-REDWOODS-1b-jfvq-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ian C. Bates for The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15SCI-REDWOODS-1b-jfvq/15SCI-REDWOODS-1b-jfvq-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "",
+          "copyright": "Ian C. Bates for The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/47w8t4S"
+    },
+    {
+      "section": "world",
+      "subsection": "",
+      "title": "‘No Space for Us’: Greeks Fight Beach Takeover by Pricey Sun Chairs",
+      "abstract": "As lounge chairs that rent for up to $130 pop up across the islands, local people have decided they won’t take it lying down.",
+      "url": "https://www.nytimes.com/2023/08/15/world/greece-beach-towel-protests.html",
+      "uri": "nyt://article/c4cb0f27-8030-50ab-8773-780650ee1bac",
+      "byline": "By Niki Kitsantonis",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T14:07:51-04:00",
+      "created_date": "2023-08-15T14:07:51-04:00",
+      "published_date": "2023-08-15T14:07:51-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Beaches",
+        "Demonstrations, Protests and Riots",
+        "Travel and Vacations",
+        "Politics and Government",
+        "Government Contracts and Procurement"
+      ],
+      "org_facet": [],
+      "per_facet": [],
+      "geo_facet": [
+        "Greece",
+        "Paros (Greece)",
+        "Naxos (Greece)"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15greece-beaches-01-wgch/15greece-beaches-01-wgch-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters demonstrating to “reclaim the beach” in July at Marcello and Krios beach on the island of Paros, Greece.",
+          "copyright": "Ronit Nesher/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15greece-beaches-01-wgch/15greece-beaches-01-wgch-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters demonstrating to “reclaim the beach” in July at Marcello and Krios beach on the island of Paros, Greece.",
+          "copyright": "Ronit Nesher/Reuters"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/15/multimedia/15greece-beaches-01-wgch/15greece-beaches-01-wgch-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Protesters demonstrating to “reclaim the beach” in July at Marcello and Krios beach on the island of Paros, Greece.",
+          "copyright": "Ronit Nesher/Reuters"
+        }
+      ],
+      "short_url": "https://nyti.ms/45uji5L"
+    },
+    {
+      "section": "theater",
+      "subsection": "",
+      "title": "At 89, Still Making Art (and Bread) With a Message",
+      "abstract": "Peter Schumann’s Bread and Puppet Theater is going strong and, at 89, so is he. But what will happen to his company when he is gone?",
+      "url": "https://www.nytimes.com/2023/08/15/theater/bread-and-puppet-theater-peter-schumann.html",
+      "uri": "nyt://article/0a06d232-be28-5e17-a737-d00757cfedd3",
+      "byline": "By Bob Morris",
+      "item_type": "Article",
+      "updated_date": "2023-08-15T13:45:36-04:00",
+      "created_date": "2023-08-15T05:01:42-04:00",
+      "published_date": "2023-08-15T05:01:42-04:00",
+      "material_type_facet": "",
+      "kicker": "",
+      "des_facet": [
+        "Puppets",
+        "Art",
+        "Theater",
+        "Bread",
+        "vis-photo"
+      ],
+      "org_facet": [
+        "Bread and Puppet Theater"
+      ],
+      "per_facet": [
+        "Schumann, Peter"
+      ],
+      "geo_facet": [
+        "Vermont"
+      ],
+      "multimedia": [
+        {
+          "url": "https://static01.nyt.com/images/2023/08/20/multimedia/20bread-puppet-10-vjcm/20bread-puppet-10-vjcm-superJumbo.jpg",
+          "format": "Super Jumbo",
+          "height": 1365,
+          "width": 2048,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bread and Puppet Theater has been presenting performances on its farm in northern Vermont and around the world for decades.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/20/multimedia/20bread-puppet-10-vjcm/20bread-puppet-10-vjcm-threeByTwoSmallAt2X.jpg",
+          "format": "threeByTwoSmallAt2X",
+          "height": 400,
+          "width": 600,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bread and Puppet Theater has been presenting performances on its farm in northern Vermont and around the world for decades.",
+          "copyright": "Tony Cenicola/The New York Times"
+        },
+        {
+          "url": "https://static01.nyt.com/images/2023/08/20/multimedia/20bread-puppet-10-vjcm/20bread-puppet-10-vjcm-thumbLarge.jpg",
+          "format": "Large Thumbnail",
+          "height": 150,
+          "width": 150,
+          "type": "image",
+          "subtype": "photo",
+          "caption": "Bread and Puppet Theater has been presenting performances on its farm in northern Vermont and around the world for decades.",
+          "copyright": "Tony Cenicola/The New York Times"
+        }
+      ],
+      "short_url": "https://nyti.ms/3sgXWKI"
+    }
+  ]
+}

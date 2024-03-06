@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+
+::selection {
+  background: #000;
+  color: #fff;
+  text-shadow: none;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+}
+
+body {
+  font-size: 16px;
+  margin: 0;
+  padding: 0;
+  font-optical-sizing: auto;
+  font-family: var(--font-sans);
+  text-size-adjust: none;
+  max-height: 100vh;
+  line-height: 1.4;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-text-size-adjust: none;
+  -moz-text-size-adjust: none;
+  -ms-text-size-adjust: none;
+}
+
+@tailwind utilities;
