@@ -76,9 +76,7 @@ export async function getNYTimesTopStories(): Promise<TopStories> {
 
 export async function getNYTimesStory(slug: string): Promise<Story> {
   const stories = await getNYTimesTopStories()
-  const story = stories.results.find((story) => {
-    return story.url.endsWith(slug.replace(/(.*\/)/, ''))
-  })
+  const story = stories.results.find((story) => story.url.endsWith(slug))
 
   if (!story) notFound()
 

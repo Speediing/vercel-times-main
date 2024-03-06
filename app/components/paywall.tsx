@@ -1,4 +1,3 @@
-'use client'
 import type { ReactNode } from 'react'
 import { PaywallForm } from './paywall-form'
 
@@ -40,18 +39,6 @@ export const Paywall = ({ children }: { children: ReactNode }) => (
               className="h-11 mt-4 font-bold text-white bg-[#121212] w-full hover:bg-[#333] hover:border-[#333] border border-black rounded-[3px] transition-colors"
             >
               Continue
-            </button>
-            <button
-              onClick={async (e) => {
-                e.preventDefault()
-                await fetch('/api/reset', {
-                  method: 'POST',
-                })
-                location.reload()
-              }}
-              className="h-11 mt-4 font-bold text-white bg-[#121212] w-full hover:bg-[#333] hover:border-[#333] border border-black rounded-[3px] transition-colors"
-            >
-              (Test) Reset Paywall
             </button>
             <p className="text-center mt-3 text-sm leading-[1.3125rem]">
               No emails are saved, we'll just set a cookie that removes the
