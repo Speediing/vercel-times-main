@@ -24,7 +24,7 @@ export const EXPERIMENTS = {
     active: true,
     // Props to pass to the experiment page
     props: {
-      showTopHeader: true,
+      showTopHeader: false,
     },
     // Paths to exclude from the experiment
     exclude: toRegex(['/experiments/:slug+']),
@@ -49,7 +49,7 @@ export type Experiments = keyof typeof EXPERIMENTS
 export const getExperiment = async (experiment: Experiments) => {
   if (!process.env.EDGE_CONFIG) {
     console.error(
-      'Setup Edge Config for the project to use it for experiments. Falling back to default values.'
+      'Setup Edge Config for the project to use it for experiments. Falling back to default values.',
     )
     return EXPERIMENTS[experiment]
   }
